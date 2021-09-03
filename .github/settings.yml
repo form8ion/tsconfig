@@ -1,0 +1,6 @@
+_extends: .github
+repository:
+  name: tsconfig
+  description: shareable TypeScript config
+  homepage: https://npm.im/@form8ion/tsconfig
+  private: false
