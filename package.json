@@ -37,6 +37,6 @@
     "remark-toc": "9.0.0"
   },
   "dependencies": {
-    "@sindresorhus/tsconfig": "8.1.0"
+    "@sindresorhus/tsconfig": "9.0.0"
   }
 }
